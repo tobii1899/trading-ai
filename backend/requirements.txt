@@ -4,7 +4,7 @@ pydantic==2.7.1
 
 # Data
 yfinance==0.2.40
-tvdatafeed
+git+https://github.com/rongardF/tvdatafeed.git
 pandas==2.2.2
 numpy==1.26.4
 
